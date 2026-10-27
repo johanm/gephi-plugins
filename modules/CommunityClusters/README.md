@@ -29,7 +29,6 @@ The module must be listed in the root `pom.xml`:
 | `Bundle.properties` | All user-visible text (setting names, descriptions, layout name) |
 | `src/test/java/...` | JUnit tests for Leiden, the circle packer and the force simulation |
 
-The layout follows the Clusters view of SoFab 0.9.0 (d3-force based).
 
 ## Tests
 
@@ -42,3 +41,7 @@ mvn -pl modules/CommunityClusters -am test
 ## License
 
 Apache License 2.0, see `LICENSE`.
+
+## Credits
+
+The layout is inspired by Fierăscu, S. I. (2026). *SoFab: Network analysis for research and practice* (Version 0.9.0) [Computer software].

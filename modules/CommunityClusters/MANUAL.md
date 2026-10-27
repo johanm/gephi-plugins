@@ -4,7 +4,7 @@ Community Clusters is a layout for Gephi. It arranges a network so that each com
 visible cluster, with the clusters themselves placed apart from each other. Inside a cluster, nodes
 are arranged by their ties, so well-connected nodes sit together and weakly connected ones drift to the edge.
 
-The layout follows the Clusters view of SoFab 0.9.0, and is built for Gephi 0.11.3.
+The layout is inspired by the Clusters view of SoFab (see [Credits](#7-credits)), and is built for Gephi 0.11.3.
 
 ---
 
@@ -232,3 +232,9 @@ off. Then run Gephi's **Noverlap** or **Label Adjust** if you need to clean up l
 | The layout never seems to stop | Lower values of *Settling speed* run longer; raise it to finish sooner |
 | The layout stops immediately | The graph is empty, or the previous run is finished: press Run again |
 | A warning about a column in the Gephi log | The name in *Cluster column* was not found, so Leiden was used |
+
+---
+
+## 7. Credits
+
+The layout is inspired by Fierăscu, S. I. (2026). *SoFab: Network analysis for research and practice* (Version 0.9.0) [Computer software].
