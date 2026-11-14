@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Spectral Layout
+OpenIDE-Module-Short-Description: Lays out the graph on Laplacian eigenvectors (spectral axes).
+OpenIDE-Module-Localizing-Bundle: myrberger/spectrallayout/Bundle.properties
+OpenIDE-Module-Display-Category: Layout

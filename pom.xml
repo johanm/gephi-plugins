@@ -345,6 +345,11 @@
         <!-- origin: fork (johanm/gephi-plugins) -->
         <!-- status: active -->
         <module>modules/CommunityClusters</module>
+
+        <!-- name: Spectral Layout -->
+        <!-- origin: fork (johanm/gephi-plugins) -->
+        <!-- status: active -->
+        <module>modules/SpectralLayout</module>
     </modules>
     
     <!-- Properties -->
